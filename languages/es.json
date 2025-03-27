@@ -1,0 +1,17 @@
+{
+    "title": "BC-Bot_Creador",
+    "bot_control": "Control del Bot",
+    "start_bot": "Iniciar Bot",
+    "stop_bot": "Detener Bot",
+    "edit_config": "Editar Configuración",
+    "bot_stopped": "Bot Detenido",
+    "bot_running": "Bot en Ejecución",
+    "modules_market": "Mercado de Módulos",
+    "refresh_market": "Actualizar Mercado",
+    "installed_modules": "Módulos Instalados",
+    "save_changes": "Guardar Cambios",
+    "settings": "Configuración",
+    "language": "Idioma",
+    "restart_prompt": "Reinicie la aplicación para aplicar el nuevo idioma.",
+    "download": "Descargar"
+}

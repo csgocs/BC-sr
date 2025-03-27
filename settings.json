@@ -1,0 +1,7 @@
+{
+    "language": "en",
+    "theme": "dark",
+    "bot_token": "token",
+    "bot_prefix": "!",
+    "log_level": "INFO"
+}
